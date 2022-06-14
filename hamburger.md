@@ -1,0 +1,5 @@
+- salade
+- tomate
+- oignon
+- steack
+- fromage
